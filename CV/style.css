@@ -1,0 +1,67 @@
+body {
+    background-color: peachpuff;
+    padding: 0;
+    margin: 0;
+}
+
+#header {
+    padding: 10px;
+    height: 250px;
+}
+
+.photo{
+    background-color: bisque;
+    width: 200px;
+    height: 200px;
+    float: left;
+    padding: 1em;
+    margin-right: 15px;
+}
+
+#content {
+    background-color: papayawhip;
+    padding: 20px;
+}
+#footer {
+    background-color: peru;
+    padding: 20px;
+}
+
+.experience {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 30px;
+}
+
+.card {
+    background-color: rgb(219, 166, 113);
+    border : 3px solid rgb(241, 154, 183);
+    border-radius: 10px;
+    padding: 10px;
+    width: 50%;
+    margin-bottom: 15px;
+
+}
+
+#footer h1 {
+    text-align: center;
+    color:white;
+    margin-bottom: 10px;    
+    text-shadow: 0  ;
+         
+
+}
+
+#footer ul {
+    text-align: center;
+    list-style-type: none;
+}
+
+#footer ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+
+
+
